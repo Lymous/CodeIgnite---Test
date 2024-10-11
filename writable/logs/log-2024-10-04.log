@@ -1,0 +1,221 @@
+CRITICAL - 2024-10-04 09:28:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:28:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:28:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:28:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:29:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:29:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:29:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:29:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:29:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:29:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:29:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editprofile]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:37:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editpro]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:37:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editpro]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:37:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editpro]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:37:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editpro]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:37:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editpro]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-04 09:39:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "editpro.php"
+[Method: GET, Route: editpro]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editpro.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editpro', [], true)
+ 3 APPPATH\Controllers\Editprofile.php(9): view('editpro')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')

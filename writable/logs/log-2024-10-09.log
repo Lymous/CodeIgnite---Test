@@ -1,0 +1,1887 @@
+CRITICAL - 2024-10-09 05:51:13 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:53:41 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:53:42 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:53:43 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:55:17 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:55:45 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:28 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:29 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:30 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:30 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:30 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:30 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:30 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:31 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:56:31 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:57:08 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:57:09 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:57:10 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:02 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:03 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:03 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:04 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:04 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:04 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:04 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:04 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:05 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:22 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:32 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 05:59:33 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:10 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:11 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:11 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:11 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:12 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:12 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:12 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:12 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:12 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:13 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:13 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:53 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:54 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:55 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:55 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:56 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:56 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:57 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:57 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:57 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:58 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:58 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:58 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:01:58 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:03:35 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:03:36 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:03:36 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:03:36 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:03:37 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:04:12 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:04:13 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:04:13 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:04:14 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 06:04:53 --> Error: Class "App\Models\Marketmodel" not found
+[Method: GET, Route: market]
+in APPPATH\Controllers\Market.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Market->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:10:41 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:10:42 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:10:42 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:10:42 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:10:45 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:32:35 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:32:37 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:32:37 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:32:37 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:32:38 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:32:38 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:33:21 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:33:22 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:26 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:27 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:27 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:28 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:28 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:30 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:31 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:35:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:36:41 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:36:41 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(15): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:38:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:38:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:38:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:38:55 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:38:56 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:39:21 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:39:22 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:39:22 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:39:22 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:39:23 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:40:11 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:40:11 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:40:11 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:40:11 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:41:22 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:41:22 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:41:23 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:44:10 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:44:10 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:44:11 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:44:12 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:45:04 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:45:05 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:45:05 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:45:05 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:46:29 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:46:29 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:46:30 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 11:46:33 --> Error: Call to undefined function form_open()
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 4 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:58:18 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:58:18 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:34 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:35 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:35 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:35 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:38 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:48 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:49 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:49 --> ErrorException: Undefined variable $user
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 13:59:59 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:00:00 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:00:00 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:00:13 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:00:13 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:01:53 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:01:54 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:06:27 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:06:27 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:06:27 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:06:29 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:06:30 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:06:31 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:06:31 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:08:12 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:08:13 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:17:57 --> ErrorException: Undefined variable $email
+[Method: GET, Route: editprofile]
+in APPPATH\Views\editprofile.php on line 181.
+ 1 APPPATH\Views\editprofile.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php', 181)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Views\\editprofile.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('editprofile', [], true)
+ 5 APPPATH\Controllers\Editprofile.php(9): view('editprofile')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Editprofile->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Editprofile))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:30:07 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: profile/update]
+in APPPATH\Controllers\Profile.php on line 25.
+ 1 APPPATH\Controllers\Profile.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Controllers\\Profile.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile->update()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
+CRITICAL - 2024-10-09 14:37:56 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: profile/update]
+in APPPATH\Controllers\Profile.php on line 25.
+ 1 APPPATH\Controllers\Profile.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "email"', 'C:\\Users\\user\\Documents\\CodeIgnite - Test\\app\\Controllers\\Profile.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Profile->update()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Profile))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\user\\Documents\\CodeIgnite - Test\\public\\index.php')
